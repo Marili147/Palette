@@ -1,8 +1,8 @@
 Farbpalette
 
-
 Rot
 Grün
 Blau
+Cyan
 Sind alles tolle Farben
 
